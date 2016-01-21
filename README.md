@@ -1,6 +1,6 @@
 # DPI Checker
 
-This is a supper simple app that will show you what drawable bucket the android system is using for a selected sevice.
+This is a super simple app that will show you what drawable bucket the android system is using for a selected sevice.
 
 **Why have something like this?**
 
